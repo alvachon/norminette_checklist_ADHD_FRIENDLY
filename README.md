@@ -1,5 +1,5 @@
 # 👁️👄👁️ norminette_checklist_ADHD_FRIENDLY
-Easy to look, easy to understand. 
+Easy to look, easy to understand. 42 Quebec
 # Denomination
 
 ➡️ s_ = structure, need a tab, 1 space in the type\
